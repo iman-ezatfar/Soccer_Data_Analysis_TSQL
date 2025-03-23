@@ -62,3 +62,33 @@ This document outlines several questions for analysis on sports data, specifical
 **Average number of goals scored by home and away teams by season (year).**
 
 - **Objective**: Calculate the average number of goals scored by home and away teams, grouped by season (year).
+
+  ## **Language / Tools**
+- **SQL**
+- **SQL Server**
+- **Microsoft SQL Server Management Studio**
+
+
+## **Clone to Repository**
+
+To clone this repository, you have the following options:
+
+1. **Using HTTPS**:
+    ```bash
+    https://github.com/iman-ezatfar/Soccer_Data_Analysis_TSQL.git
+    ```
+
+2. **Using SSH**:
+    ```bash
+    git@github.com:iman-ezatfar/Soccer_Data_Analysis_TSQL.git
+    ```
+
+3. **Using GitHub CLI**:
+    ```bash
+    gh repo clone iman-ezatfar/Soccer_Data_Analysis_TSQL
+    ```
+
+## Contact
+
+<a href="https://www.linkedin.com/in/imanezatfar"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+<a href="mailto:iman.ezatfar89@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
